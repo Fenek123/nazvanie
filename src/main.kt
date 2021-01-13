@@ -5,7 +5,7 @@ fun main() {
      print("введіть другу цифру")
      var num2 = readLine().toString().toDouble()
      var operation = readLine()
-
+//
 //     if(operation == "+")
 //     {
 //          println(num1+num2)
